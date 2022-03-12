@@ -1,0 +1,6 @@
+.blog-single-post img {
+    max-width: 100%;
+    margin-bottom: 30px;
+    border-radius: 20px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 20px 30px;
+}
