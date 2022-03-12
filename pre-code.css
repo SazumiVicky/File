@@ -5,6 +5,7 @@ pre {
     margin-top: 0;
     margin-bottom: 1rem;
     overflow: auto;
+    border-radius: 10px;
 }
 
 code, kbd, pre, samp {
